@@ -1,11 +1,11 @@
 
-# Sort Your Music
+# Rock My Run
 
 A web app that lets you sort your music.
 
 Online at
 
-[http://static.echonest.com/SortYourMusic](http://static.echonest.com/SortYourMusic)
+[http://static.echonest.com/SortYourMusic](http://static.echonest.com/RockMyRun)
 
 
 ## Local Development
@@ -41,4 +41,4 @@ Optionally warm up server cache with top 1000 artists (this may take some time):
 
     $ $(cd server ; python warm.py)
 
-Connect to [http://localhost:8235/SortYourMusic/](http://static.echonest.com/SortYourMusic)
+Connect to [http://localhost:8235/SortYourMusic/](http://static.echonest.com/RockMyRun)
